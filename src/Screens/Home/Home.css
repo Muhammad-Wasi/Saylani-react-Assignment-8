@@ -1,0 +1,12 @@
+.AllMeetingsCards{
+    display: flex;
+    float: left;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px auto;
+    width: 100%
+}
+
+.AllMeetingsCards span h2{
+    color: #034983;
+}

@@ -1,0 +1,33 @@
+.MeetingsCards{
+    min-width: 270px;
+    width: 270px;
+    height: 360px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px gray;
+    border: 1px solid grey;
+    margin: 10px;
+}
+.MeetingsCards ::after{
+    display: table
+}
+.Div1{
+    padding: 2px;
+    height: 210px;
+}
+.Div1 img{
+    width: 100%;
+    height: 100%;
+}
+.Div2{
+    height: 150px;
+}
+.Div2 h3{
+    margin: 0px auto 7px auto;
+
+}
+.Div2 h5{
+    margin: 0px auto 6px auto;
+}
+.Div2 button{
+    margin: 0px 5px !important
+}

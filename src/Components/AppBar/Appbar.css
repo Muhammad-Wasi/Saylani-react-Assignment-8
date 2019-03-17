@@ -1,0 +1,92 @@
+.Appbar-sectionMobile-120 {
+    float: right !important;
+    margin-right: 20px !important
+}
+
+@media (min-width: 960px){
+    .Appbar-sectionDesktop-119 {
+        float: right !important;
+        margin-right: 40px !important
+    }
+    .Appbar-sectionDesktop-94 {
+        float: right !important;
+        width: 180px !important
+    }
+}
+.Appbar-sectionMobile-85 {
+    float: right !important;
+    width: 80px !important
+}
+.MuiSvgIcon-root-110 {
+    margin-right: 25px !important;
+}
+.MuiTypography-colorInherit-105 {
+    width: 200px !important
+}
+
+.MuiTypography-noWrap-102 {
+    height: 70px !important;
+}
+
+.MuiSvgIcon-root-60 {
+    font-size: 30px !important;
+    margin: 0px 1px !important
+}
+.MuiMenuItem-root-169 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+}
+.MuiMenuItem-root-173 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+}
+.MuiMenuItem-root-177 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+}
+.MuiMenuItem-root-181 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+}
+.MuiMenuItem-root-185 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+}
+.MuiMenuItem-root-271 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+
+}
+.MuiMenuItem-root-279 {
+    height: 35px !important;
+    padding-left: 0px !important
+
+}
+.MuiMenuItem-root-283 {
+    height: 35px !important;
+    padding-left: 0px !important
+}
+
+.MenuText {
+    margin-left: 16px !important;
+    margin-right: 0px !important;
+}
+.MuiTypography-colorInherit-80 {
+    width: 300px !important;
+}
+
+.MuiMenuItem-root-193 {
+    height: 35px !important;
+
+}
+
+.MuiMenuItem-root-197 {
+    height: 35px !important;
+
+}

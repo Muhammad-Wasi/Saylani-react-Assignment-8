@@ -1,0 +1,11 @@
+.react-slideshow-container + div.indicators {
+    margin-top: 0px !important
+}
+
+.CardDiv{
+    height: 300px !important;
+}
+
+.Cards{
+    border: 2px solid grey !important
+}

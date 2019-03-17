@@ -1,0 +1,81 @@
+.FormDiv{
+    width: 100%;
+}
+
+.Headings{
+    width: 100%;
+}
+
+.Headings h2{
+    text-align: center;
+    margin: 8px
+}
+
+.FormFields{
+    width: 100%;
+}
+
+.SingleField{
+    width: 100%;
+}
+
+.SingleField :first-child{
+    width: 40%;
+    height: 40px;
+    float: left;
+    /* border: 1px solid green; */
+}
+.SingleField :first-child>label{
+    text-align: start;
+    padding-left: 15px;
+    font-weight: 500;
+}
+.SingleField :last-child{
+    width: 60%;
+    height: 40px;
+    padding: 4px 0px;
+    float: left;    
+    /* background-color: brown     */
+}
+.TextField1{
+    width: 100%
+}
+.TextField1 :first-child{
+    width: 40%;
+    height: 130px;
+    float: left;
+}
+.TextField1 :first-child>label{
+    padding-top: 45px;
+    text-align: start;
+    padding-left: 15px;
+    font-weight: 500;
+
+}
+.TextField1 :last-child{
+    width: 60%;
+    height: 130px;
+    float: left;    
+    
+}
+
+.TextField2{
+    width: 100%
+}
+.TextField2 :first-child{
+    width: 40%;
+    height: 70px;
+    float: left;
+}
+.TextField2 :first-child>label{
+    text-align: start;
+    padding-left: 15px;
+    font-weight: 500;
+
+}
+.TextField2 :last-child{
+    width: 60%;
+    height: 70px;
+    float: left;    
+    
+}

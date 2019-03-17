@@ -1,0 +1,66 @@
+.RequestCards{
+    /* display: flex; */
+    /* float: left; */
+    min-width: 270px;
+    width: 250px;
+    height: 295px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px gray;
+    border: 1px solid grey;
+    margin: 10px;
+}
+.RequestCards ::after{
+    display: table
+}
+.RequestCardsDiv1{
+    width: 100%;
+    padding: 7px 23%;
+    padding-bottom: 0px !important;
+    height: 90px;
+}
+.RequestCardsDiv2{
+    width: 100%;
+    height: 250px;
+}
+.RequestCardsDiv2 h3{
+    margin: 0px auto 7px auto;
+
+}
+.RequestCardsDiv2 p{
+    margin: 0px auto 6px auto;
+}
+.RequestCardsDiv2 button{
+    margin: 0px 5px !important
+}
+
+
+.LeftAvatar{
+    width: 80px !important;
+    height: 80px !important;
+    display: flex;
+    float: left;
+    border: 3px solid rgb(24, 80, 126);
+    margin-right: -10px !important;
+    z-index: 1;
+}
+.RightAvatar{
+    width: 80px !important;
+    height: 80px !important;
+    display: flex;
+    float: left;
+    border: 3px solid rgb(24, 80, 126);
+    margin-left: -10px !important
+}
+
+/* .MuiAvatar-root-167{
+    width: 80px !important;
+    height: 80px !important;
+    display: flex;
+    float: left;
+    border: 3px solid rgb(24, 80, 126);
+    margin-right: -10px !important;
+} */
+
+.RequestCardsDiv2 button {
+    margin: 5px !important
+}
